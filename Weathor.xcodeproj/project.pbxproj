@@ -612,6 +612,8 @@
 			baseConfigurationReference = 7345F3D0EEFF3105923A07FC /* Pods-Weathor.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = P6N4QU9C7Y;
 				INFOPLIST_FILE = Weathor/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -626,6 +628,8 @@
 			baseConfigurationReference = AD6BD58FAE3ECFE61D4D2C1B /* Pods-Weathor.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = P6N4QU9C7Y;
 				INFOPLIST_FILE = Weathor/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
